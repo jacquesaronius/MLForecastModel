@@ -1,0 +1,4 @@
+C:\Users\Jacques\source\repos\MLForecastModel\MLForecastModel.Console\bin\Debug\netcoreapp3.1\MLForecastModel.Console.exe
+C:\Users\Jacques\source\repos\MLForecastModel\MLForecastModel.Console\obj\Debug\netcoreapp3.1\MLForecastModel.Console.csprojAssemblyReference.cache
+C:\Users\Jacques\source\repos\MLForecastModel\MLForecastModel.Console\obj\Debug\netcoreapp3.1\MLForecastModel.Console.AssemblyInfoInputs.cache
+C:\Users\Jacques\source\repos\MLForecastModel\MLForecastModel.Console\obj\Debug\netcoreapp3.1\MLForecastModel.Console.AssemblyInfo.cs

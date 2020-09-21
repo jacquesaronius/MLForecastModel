@@ -1,0 +1,5 @@
+C:\Users\Jacques\source\repos\MLForecastModel\MLForecastModel.MachineLearning\bin\Debug\netstandard2.0\MLForecastModel.MachineLearning.deps.json
+C:\Users\Jacques\source\repos\MLForecastModel\MLForecastModel.MachineLearning\bin\Debug\netstandard2.0\MLForecastModel.MachineLearning.dll
+C:\Users\Jacques\source\repos\MLForecastModel\MLForecastModel.MachineLearning\obj\Debug\netstandard2.0\MLForecastModel.MachineLearning.csprojAssemblyReference.cache
+C:\Users\Jacques\source\repos\MLForecastModel\MLForecastModel.MachineLearning\obj\Debug\netstandard2.0\MLForecastModel.MachineLearning.AssemblyInfoInputs.cache
+C:\Users\Jacques\source\repos\MLForecastModel\MLForecastModel.MachineLearning\obj\Debug\netstandard2.0\MLForecastModel.MachineLearning.AssemblyInfo.cs
